@@ -15,4 +15,5 @@ export default function NavBar(){
             </nav>
         </div>
     )
+    //
 }
